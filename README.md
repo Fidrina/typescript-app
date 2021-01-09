@@ -24,3 +24,9 @@ Development of an api using Typescript
 ```bash
     yarn add uuidv4
 ```
+
+```bash
+    yarn add nodemailer
+
+    yarn add @types/nodemailer --save-dev
+```
