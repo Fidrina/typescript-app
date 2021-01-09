@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/MagicalStrangeQuark/typescript-app/issues"
   },
-  "homepage": "https://github.com/MagicalStrangeQuark/typescript-app#readme"
+  "homepage": "https://github.com/MagicalStrangeQuark/typescript-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.1",
+    "typescript": "^4.1.3"
+  }
 }
